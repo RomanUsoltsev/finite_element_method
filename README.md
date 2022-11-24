@@ -11,11 +11,9 @@ ${\displaystyle \frac{du}{dx} (L) =  \frac{-P}{E \cdot A(L)} }$
 
 ${\displaystyle   C(x) = E \cdot A(x)}$
 
-${\displaystyle   C(x) = E \cdot  b \cdot ( 0.1 + \frac{x}{10 \cdot L})}$
 
-${\displaystyle A(x) = b \cdot h(x) }$
+${\displaystyle A(x) = 0.0341 }$
 
-${\displaystyle h(x) = 0.1 + \frac{x}{10 \cdot L} }$
 
 ${\displaystyle f(x) = p \cdot g \cdot A(x) }$
 
