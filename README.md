@@ -27,6 +27,6 @@ ${\displaystyle g = 9.81 \, \frac{м}{с^2} }$
 
 ${\displaystyle P = 30000 \, Н }$
 
-${\displaystyle E = 3000 \, Па }$
+${\displaystyle E = 30 \, ГПа }$
 
 ${\displaystyle b = 0.1 \, м }$
